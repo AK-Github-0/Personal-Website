@@ -93,7 +93,7 @@ Feel free to contribute to this project by submitting a pull request or opening 
 
 ## 📧 Contact
 
-If you'd like to reach out, you can contact me via [LinkedIn](#) or email me at [your-email@example.com](mailto:your-email@example.com).
+If you'd like to reach out, you can contact me via [LinkedIn](#) or email me at [abdullahkhanai@icloud.com](mailto:abdullahkhanai@icloud.com).
 
 ---
 
