@@ -93,8 +93,4 @@ Feel free to contribute to this project by submitting a pull request or opening 
 
 ## 📧 Contact
 
-If you'd like to reach out, you can contact me via [LinkedIn](#) or email me at [abdullahkhanai@icloud.com](mailto:abdullahkhanai@icloud.com).
-
----
-
-This README now reflects the code and functionality of your personal website. You can replace placeholder links and image paths with your actual information!
+If you'd like to reach out, you can contact me via [LinkedIn](https://www.linkedin.com/in/ak901d/) or email me at [abdullahkhanai@icloud.com](mailto:abdullahkhanai@icloud.com).
