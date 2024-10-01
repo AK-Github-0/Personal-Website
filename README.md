@@ -1,6 +1,6 @@
 # Personal Website
 
-This repository contains the code for my personal website, which highlights my AI consultancy services, projects, and professional background. The website is built with **Streamlit** and offers a clean and professional user interface.
+This repository contains the code of my personal website, which highlights my AI consultancy services, projects, and professional background. The website is built with **Streamlit** and offers a clean and professional user interface.
 
 ## 🖥️ Live Demo
 
